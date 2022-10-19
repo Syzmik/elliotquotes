@@ -12,3 +12,4 @@ Quotes that Elliot says:
 "that's my comment and i'm sticking to it."
 "sure thing."
 "a lot of words with dog in them. that's kind of weird."
+"... is very suboptimal."
